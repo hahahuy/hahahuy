@@ -5,7 +5,7 @@
 
 🚀 Exploring Data Science, Machine Learning, and Quantum Computing
 
-📡 Passionate about Geospatial Analysis and Satellite Technology
+📡 Passionate about Quantum Tech and Satellite Technology
 
 ## 📫 Let's Connect!
 
