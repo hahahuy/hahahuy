@@ -9,7 +9,7 @@
 
 ## 📫 Let's Connect!
 
-💼 LinkedIn: [Hà Quang Huy](https://www.linkedin.com/in/ha-quang-huy-3a4145226/)
+💼 LinkedIn: [Hà Quang Huy](http://www.linkedin.com/in/haqhuy)
 
 ✉️ Email: quanghuyha098@gmail.com
 
