@@ -3,9 +3,9 @@
 
 🌍 Based in Ho Chi Minh City, Vietnam
 
-🚀 Exploring Data Science, Machine Learning, and Quantum Computing
+🚀 Exploring Data Science, Machine Learning-AI, and Quantum Computing
 
-📡 Passionate about Quantum Tech and Satellite Technology
+📡 Passionate about Quantum Tech and AI Technology
 
 ## 📫 Let's Connect!
 
