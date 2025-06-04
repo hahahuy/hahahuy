@@ -45,9 +45,6 @@
     <img width="375" height="187.5" align="center" style="margin-right: 50px;" src="https://github-contributor-stats.vercel.app/api?username=hahahuy&limit=5&theme=dark&combine_all_yearly_contributions=true" />
   </a>
   <a href="#" title="HAQUANGHUY">
-    <img width="375" height="187.5" align="center" style="margin-left: 50px;" src="https://visitcount.itsvg.in/api?id=hahahuy&icon=0&color=0" />
-  </a>
-  <a href="#" title="NgNgGiaHuy">
     <img width="375" height="187.5" align="center" style="margin-left: 50px;" src="https://github-readme-stats.vercel.app/api?username=hahahuy&show_icons=true&theme=dracula&border_color=ff79c6&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
