@@ -29,18 +29,26 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
 <div align="center">
-  ![](https://nirzak-streak-stats.vercel.app/?user=hahahuy&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hahahuy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <a href="#" title="HAQUANGHUY">
+    <img width="375" height="187.5" align="center" style="margin-right: 50px;" src="https://nirzak-streak-stats.vercel.app/?user=hahahuy&theme=dark&hide_border=false" />
+  </a>
+  <a href="#" title="HAQUANGHUY">
+    <img width="375" height="187.5" align="center" style="margin-left: 50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hahahuy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  </a>
 </div>
+
 
 <h3 align="center">🔝 Top Contributed Repo</h3>
 <br>
 <div align="center">
-  ![](https://github-contributor-stats.vercel.app/api?username=hahahuy&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-  ---
-  [![](https://visitcount.itsvg.in/api?id=hahahuy&icon=0&color=0)](https://visitcount.itsvg.in)
+  <a href="#" title="HAQUANGHUY">
+    <img width="375" height="187.5" align="center" style="margin-right: 50px;" src="https://github-contributor-stats.vercel.app/api?username=hahahuy&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  </a>
+  <a href="#" title="HAQUANGHUY">
+    <img width="375" height="187.5" align="center" style="margin-left: 50px;" src="https://visitcount.itsvg.in/api?id=hahahuy&icon=0&color=0" />
+  </a>
 </div>
+
 
 
 
