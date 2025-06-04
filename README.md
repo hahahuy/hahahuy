@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B+Nice+to+see+you;I'm+Quang+Huy"/>
 </h1>
 
-🎓 Physics Student | Aspiring Data Scientist | Simulation Enthusiast
+🎓 A Physics Student | Aspiring Data Scientist | Simulation Enthusiast
 
 🌍 Based in Ho Chi Minh City, Vietnam
 
