@@ -10,9 +10,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href= "https://hahuy.space/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
+
+<br>
 
 🎓 A Physics Student | Aspiring Data Scientist | Simulation Enthusiast
 
@@ -22,8 +24,10 @@
 
 📡 Passionate about Quantum Tech and AI Technology
 
-<h1 align="center">📊 GitHub Stats</h1>
 <br>
+
+<h1 align="center">📊 GitHub Stats</h1>
+
 <div align="center">
   <a href="#" title="HAQUANGHUY">
     <img width="375" height="187.5" align="center" style="margin-right: 50px;" src="https://nirzak-streak-stats.vercel.app/?user=hahahuy&theme=dark&hide_border=false" />
@@ -44,6 +48,8 @@
     <img width="375" height="187.5" align="center" style="margin-left: 50px;" src="https://github-readme-stats.vercel.app/api?username=hahahuy&show_icons=true&theme=dracula&border_color=ff79c6&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
+
+<br>
 
 <h1 align="center"> 💻 Tech Stack </h1>
 
